@@ -1,5 +1,2 @@
-# skip uploading data files to github
-data/
-
 # skip uploading ipynb checkpoints
 .ipynb_checkpoints
